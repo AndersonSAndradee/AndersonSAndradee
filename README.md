@@ -1,6 +1,6 @@
 - 👋 Hola! @AndersonSAndradee Meu nome é Anderson Silva;
 - 👀 Estou altamente enteressado na área de dados;
-- 💻 Estudo Python, sei um pouco de HTML, CSS e React;
+- 💻 Estudo Python e Java como linguagens principais;
 - 👨‍🎓 Também estou me formando na área de desenvolvimento de sistema(curso superior);
 - 📫 Moro em PE/Camaragibe;
 - 👨‍💻 Estou busca de uma vaga no mercado de trabalho, dentro da área de TI;
